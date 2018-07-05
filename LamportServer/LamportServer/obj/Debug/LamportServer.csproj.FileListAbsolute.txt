@@ -1,0 +1,18 @@
+C:\Users\home\Desktop\LamportServer\LamportServer\bin\Debug\LamportServer.exe.config
+C:\Users\home\Desktop\LamportServer\LamportServer\obj\Debug\LamportServer.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\LamportServer\LamportServer\obj\Debug\LamportServer.serverForm.resources
+C:\Users\home\Desktop\LamportServer\LamportServer\obj\Debug\LamportServer.Properties.Resources.resources
+C:\Users\home\Desktop\LamportServer\LamportServer\obj\Debug\LamportServer.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\LamportServer\LamportServer\bin\Debug\LamportServer.exe
+C:\Users\home\Desktop\LamportServer\LamportServer\bin\Debug\LamportServer.pdb
+C:\Users\home\Desktop\LamportServer\LamportServer\obj\Debug\LamportServer.exe
+C:\Users\home\Desktop\LamportServer\LamportServer\obj\Debug\LamportServer.pdb
+E:\Divya\ds p\LamportServer\LamportServer\bin\Debug\LamportServer.exe.config
+E:\Divya\ds p\LamportServer\LamportServer\obj\Debug\LamportServer.exe
+E:\Divya\ds p\LamportServer\LamportServer\obj\Debug\LamportServer.pdb
+E:\Divya\ds p\LamportServer\LamportServer\bin\Debug\LamportServer.exe
+E:\Divya\ds p\LamportServer\LamportServer\bin\Debug\LamportServer.pdb
+E:\Divya\ds p\LamportServer\LamportServer\obj\Debug\LamportServer.csprojResolveAssemblyReference.cache
+E:\Divya\ds p\LamportServer\LamportServer\obj\Debug\LamportServer.serverForm.resources
+E:\Divya\ds p\LamportServer\LamportServer\obj\Debug\LamportServer.Properties.Resources.resources
+E:\Divya\ds p\LamportServer\LamportServer\obj\Debug\LamportServer.csproj.GenerateResource.Cache
