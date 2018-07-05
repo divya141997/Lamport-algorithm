@@ -1,0 +1,21 @@
+C:\Users\home\Desktop\LamportClient\LamportClient\bin\Debug\LamportClient.exe.config
+C:\Users\home\Desktop\LamportClient\LamportClient\bin\Debug\LamportClient.exe
+C:\Users\home\Desktop\LamportClient\LamportClient\bin\Debug\LamportClient.pdb
+C:\Users\home\Desktop\LamportClient\LamportClient\obj\Debug\LamportClient.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\LamportClient\LamportClient\obj\Debug\LamportClient.Form1.resources
+C:\Users\home\Desktop\LamportClient\LamportClient\obj\Debug\LamportClient.Properties.Resources.resources
+C:\Users\home\Desktop\LamportClient\LamportClient\obj\Debug\LamportClient.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\LamportClient\LamportClient\obj\Debug\LamportClient.exe
+C:\Users\home\Desktop\LamportClient\LamportClient\obj\Debug\LamportClient.pdb
+E:\Divya\ds p\LamportClient\LamportClient\bin\Debug\LamportClient.exe.config
+E:\Divya\ds p\LamportClient\LamportClient\obj\Debug\LamportClient.exe
+E:\Divya\ds p\LamportClient\LamportClient\obj\Debug\LamportClient.pdb
+E:\Divya\ds p\LamportClient\LamportClient\bin\Debug\LamportClient.exe
+E:\Divya\ds p\LamportClient\LamportClient\bin\Debug\LamportClient.pdb
+E:\Divya\ds p\LamportClient\LamportClient\obj\Debug\LamportClient.csprojResolveAssemblyReference.cache
+E:\Divya\ds p\LamportClient\LamportClient\obj\Debug\LamportClient.Form1.resources
+E:\Divya\ds p\LamportClient\LamportClient\obj\Debug\LamportClient.Properties.Resources.resources
+E:\Divya\ds p\LamportClient\LamportClient\obj\Debug\LamportClient.csproj.GenerateResource.Cache
+E:\Divya\project\lamport\LamportClient\LamportClient\bin\Debug\LamportClient.exe.config
+E:\Divya\project\lamport\LamportClient\LamportClient\obj\Debug\LamportClient.exe
+E:\Divya\project\lamport\LamportClient\LamportClient\obj\Debug\LamportClient.pdb
